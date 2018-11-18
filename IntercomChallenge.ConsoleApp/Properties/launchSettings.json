@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntercomChallenge.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\dev\\Desktop\\customers.txt"
+    }
+  }
+}
