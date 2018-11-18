@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntercomChallenge.Models", "IntercomChallenge.Models\IntercomChallenge.Models.csproj", "{7E274D03-B7FC-4B6A-8F26-DB0967283E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntercomChallenge.Models", "IntercomChallenge.Models\IntercomChallenge.Models.csproj", "{7E274D03-B7FC-4B6A-8F26-DB0967283E00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntercomChallenge.Models.Tests", "IntercomChallenge.Models.Tests\IntercomChallenge.Models.Tests.csproj", "{A19E5FDD-163D-4584-BDD6-F3A60C7AF408}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntercomChallenge.Models.Tests", "IntercomChallenge.Models.Tests\IntercomChallenge.Models.Tests.csproj", "{A19E5FDD-163D-4584-BDD6-F3A60C7AF408}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntercomChallenge.ConsoleApp", "IntercomChallenge.ConsoleApp\IntercomChallenge.ConsoleApp.csproj", "{BE577BA0-B003-42A7-B0AE-55FD7B449C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntercomChallenge.ConsoleApp", "IntercomChallenge.ConsoleApp\IntercomChallenge.ConsoleApp.csproj", "{BE577BA0-B003-42A7-B0AE-55FD7B449C14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E83F75E3-CBE8-4E0E-A3B5-80E270CF5055}"
+	ProjectSection(SolutionItems) = preProject
+		Output.txt = Output.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
